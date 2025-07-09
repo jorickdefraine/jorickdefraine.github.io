@@ -4,7 +4,7 @@ menu = "main"
 weight = 1
 +++
 
-## Data Analyst building in DeFi. Ex-Morpho Labs 🦋
+# DeFi Data Analyst.
 
 I've been analyzing and building in decentralized finance since 2022, including managing $20M+ in assets as Data & Operations Engineer at Morpho Labs.
 
