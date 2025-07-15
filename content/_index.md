@@ -6,7 +6,7 @@ weight = 1
 
 # DeFi Data Analyst.
 
-I've been analyzing and building in decentralized finance since 2022, including managing $20M+ in assets as Data & Operations Engineer at Morpho Labs.
+I've been analyzing and building in decentralized finance since 2022, including managing $20M+ in assets as a Data & Operations Engineer at Morpho Labs.
 
 Currently crafting data analytics tools and dashboards while deep-diving into DeFi protocols and smart contract mechanisms. Passionate about making financial infrastructure more transparent and accessible through data.
 
