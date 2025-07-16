@@ -10,6 +10,7 @@ weight = 20
 
 [WIP] Rebalance your USDC into the most profitable Whitelisted Morpho Vault on Base (soon Katana Network).
 
+---
 [CMC Quotes Fetcher](https://github.com/jorickdefraine/cmc-quotes-fetcher)
 
 Fetch the global metrics CoinMarketCap quotes every day. 
