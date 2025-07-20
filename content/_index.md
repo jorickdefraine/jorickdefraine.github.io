@@ -17,10 +17,10 @@ Building: Open-source yield optimizers, on-chain analytics dashboards, and DeFi 
 ---
 ## Connect
 
-**GitHub** → [jorickdefraine](https://github.com/jorickdefraine)
+**Telegram** → [@jorickdefraine](https://t.me/jorickdefraine)
+
+**Email** → defraine.jorick@gmail.com
 
 **Twitter** → [@_Jorick](https://x.com/_Jorick)  
 
-**Dune** → [@jorick](https://dune.com/jorick)
-
-**Email** → defraine.jorick@gmail.com
+**GitHub** → [jorickdefraine](https://github.com/jorickdefraine)
