@@ -15,3 +15,8 @@ weight = 20
 
 Fetch the global metrics CoinMarketCap quotes every day. 
 It appends the results into a .csv files so you can get the historical data without paying a pro API plan.
+
+---
+[CMC100](https://github.com/jorickdefraine/cmc100)
+
+Fetch the CMC100 Index composition from the CoinMarketCap api. 
