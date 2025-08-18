@@ -42,7 +42,7 @@ After managing $20M in assets at Morpho Protocol, I help crypto/tech startups bu
 - **Web3 companies** preparing for fundraising
 - **Tech startups** with crypto treasury exposure
 
-### Why Work With Me
+### Why Work With Me?
 
 ✅ **Proven track record:** Built Morpho's FinOps infrastructure  
 ✅ **Technical expertise:** Engineering background (Télécom Paris) + hands-on data skills  
