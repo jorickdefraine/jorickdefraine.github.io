@@ -1,5 +1,5 @@
 +++
-title = "How to Evaluate DeFi Project Reliability"
+title = "How to Evaluate DeFi Project Reliability?"
 date = "2025-01-19"
 description = "A practical framework for assessing DeFi projects before investing or interacting with protocols."
 tags = [
