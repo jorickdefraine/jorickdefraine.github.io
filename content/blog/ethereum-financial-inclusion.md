@@ -1,6 +1,6 @@
 +++
 title = "Ethereum and Financial Inclusion: Promise vs Reality"
-date = "2023-05-20"
+date = "2023-05-14"
 description = "Exploring how Ethereum creates a more inclusive financial system and the obstacles preventing mass adoption."
 tags = [
     "ethereum",
