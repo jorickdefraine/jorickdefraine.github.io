@@ -36,19 +36,12 @@ After managing $20M in assets at Morpho Protocol, I help crypto/tech startups bu
 **Week 2-4:** Implement core infrastructure and quick wins  
 **Month 2+:** Optimize, automate, and scale with your growth
 
-### Ideal Clients
-
-- **Crypto protocols** managing complex multi-chain operations
-- **DeFi startups** needing institutional-grade reporting
-- **Web3 companies** preparing for fundraising
-- **Tech startups** with crypto treasury exposure
-
 ### Why Work With Me?
 
-✅ **Proven track record:** Built Morpho's FinOps infrastructure  
-✅ **Technical expertise:** Engineering background (Télécom Paris) + hands-on data skills  
-✅ **Crypto native:** Deep understanding of DeFi, not just traditional finance  
-✅ **Fast implementation:** See results within 30 days  
+**Proven track record:** Built Morpho's FinOps infrastructure  
+**Technical expertise:** Engineering background (Télécom Paris) + hands-on data skills  
+**Crypto native:** Deep understanding of DeFi, not just traditional finance  
+**Fast implementation:** See results within 30 days  
 
 ## Let's Talk
 
