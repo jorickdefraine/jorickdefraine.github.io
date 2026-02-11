@@ -4,23 +4,15 @@ menu = "main"
 weight = 1
 +++
 
-# DeFi Data Analyst.
+# DeFi Risk & Data Analyst.
 
-I've been analyzing and building in decentralized finance since 2022, including managing $20M+ in assets as a Data & FinOps Engineer at Morpho Labs.
+I help DeFi protocols, vault managers, and DAOs **understand and monitor their on-chain risk** using clear data analysis and dashboards.
 
-Currently crafting data analytics tools and dashboards while deep-diving into DeFi protocols and smart contract mechanisms. 
+I've been analyzing and building in decentralized finance since 2022, including managing **$20M+ in assets** as a Data & FinOps Engineer at **Morpho**.
 
-Passionate about making financial infrastructure more transparent and accessible through data.
+I perform structured **on-chain risk assessments** and design **monitoring dashboards** that help teams identify key risk drivers, make better decisions, and communicate clearly with partners.
 
-Building: Open-source yield optimizers, on-chain analytics dashboards, and DeFi risk monitoring systems.
+Building open-source yield optimizers, on-chain analytics dashboards, and DeFi risk monitoring systems.
 
----
-## Connect
-
-**Telegram** → [@jorickdefraine](https://t.me/jorickdefraine)
-
-**Email** → defraine.jorick@gmail.com
-
-**Twitter** → [@_Jorick](https://x.com/_Jorick)  
-
-**GitHub** → [jorickdefraine](https://github.com/jorickdefraine)
+👉 Need a clear view of your protocol or vault risk?  
+DM me at → [@jorickdefraine](https://t.me/jorickdefraine)
