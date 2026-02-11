@@ -13,7 +13,9 @@ I help DeFi protocols, vault managers, and DAOs **clearly understand their on-ch
 
 ---
 
-## Most DeFi teams have data — but **no clear view of risk**.
+### The problem I solve
+
+Most DeFi teams have data — but **no clear view of risk**.
 
 - Key parameters are not clearly identified
 - Dashboards exist, but they don’t answer *risk* questions
@@ -24,7 +26,7 @@ I help DeFi protocols, vault managers, and DAOs **clearly understand their on-ch
 
 ---
 
-## The solution: a DeFi Risk Assessment
+### The solution: a DeFi Risk Assessment
 
 A **focused, one-off risk analysis** of your protocol or vault that gives you:
 
@@ -34,7 +36,7 @@ A **focused, one-off risk analysis** of your protocol or vault that gives you:
 
 ---
 
-## What I do
+### What I do
 
 I analyze your protocol or vault from a **risk and data perspective**, combining on-chain metrics with DeFi mechanics.
 
@@ -48,7 +50,7 @@ This typically includes:
 
 ---
 
-## What you get
+### What you get
 
 - A **custom Dune dashboard**
     - usage & flows
@@ -64,7 +66,7 @@ Everything is designed to be **clear, pragmatic, and usable** — not academic.
 
 ---
 
-## Who this is for
+### Who this is for
 
 This is a good fit if you are:
 
@@ -75,7 +77,7 @@ This is a good fit if you are:
 
 ---
 
-## Format
+### Format
 
 - One-off engagement
 - 1–2 weeks turnaround
@@ -85,7 +87,7 @@ This is a good fit if you are:
 
 ---
 
-## How it usually starts
+### How it usually starts
 
 1. Short intro call
 2. You tell me what you want to understand or monitor
@@ -94,7 +96,7 @@ This is a good fit if you are:
 
 ---
 
-## Get in touch
+### Get in touch
 
 If you want a **clear view of your on-chain risk and what really matters**, feel free to reach out.
 
