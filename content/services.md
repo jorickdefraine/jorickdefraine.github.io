@@ -5,47 +5,97 @@ weight = 20
 draft = false
 +++
 
-# Services
+# DeFi Risk Assessment
 
-## Financial Operations & Analytics for Tech Companies
+*Understand your on-chain risk. Know what to monitor. Act with confidence.*
 
-After managing $20M in assets at Morpho Protocol, I help crypto/tech startups build robust financial infrastructure that scales.
+I help DeFi protocols, vault managers, and DAOs **clearly understand their on-chain risk exposure** using actionable data analysis and dashboards.
 
-### What I Offer
+---
 
-#### 📊 Financial Data Infrastructure
-- **Real-time dashboards** tracking key metrics across multiple chains
-- **Automated reporting** for team and investors (save 20+ hours/month)
-- **Treasury monitoring** with alerts and risk analytics
-- **Custom data pipelines** combining on-chain and off-chain data
+## Most DeFi teams have data — but **no clear view of risk**.
 
-#### 💼 FinOps Foundation
-- **Complete financial stack setup** (crypto + fiat treasury management)
-- **Daily operations** handling (payments, banking, vendor management)
-- **Runway projections** with alerts (know exactly when to raise)
-- **Cost optimization** and budget tracking across departments
+- Key parameters are not clearly identified
+- Dashboards exist, but they don’t answer *risk* questions
+- No shared framework to explain risk to partners, curators, or investors
+- When markets move fast, decisions are made with partial information
 
-#### 🔍 Strategic Analytics
-- **Competitive intelligence** dashboards
-- **Investor-ready** reports and data rooms
-- **Market analysis** for strategic decisions
+**This creates uncertainty, slow reactions, and credibility issues.**
 
-### My Approach
+---
 
-**Week 1:** Full audit of current setup, identify critical gaps  
-**Week 2-4:** Implement core infrastructure and quick wins  
-**Month 2+:** Optimize, automate, and scale with your growth
+## The solution: a DeFi Risk Assessment
 
-### Why Work With Me?
+A **focused, one-off risk analysis** of your protocol or vault that gives you:
 
-**Proven track record:** Built Morpho's FinOps infrastructure  
-**Technical expertise:** Engineering background (Télécom Paris) + hands-on data skills  
-**Crypto native:** Deep understanding of DeFi, not just traditional finance  
-**Fast implementation:** See results within 30 days  
+- a clear understanding of your main risk drivers
+- concrete metrics to monitor
+- a shared risk language your team can rely on
 
-## Let's Talk
+---
 
-I'm particularly interested in helping:
-- Startups preparing Series A with messy data
-- Teams overwhelmed by manual financial processes
-- Founders who know they need better visibility
+## What I do
+
+I analyze your protocol or vault from a **risk and data perspective**, combining on-chain metrics with DeFi mechanics.
+
+This typically includes:
+
+- Analysis of **collateral & exposure**
+- User behavior, inflows & outflows
+- LTVs, liquidations, and stress points
+- Identification of **critical risk parameters**
+- Definition of **what should be monitored** and why
+
+---
+
+## What you get
+
+- A **custom Dune dashboard**
+    - usage & flows
+    - key risk metrics
+- A **concise written risk assessment**
+    - main findings
+    - risk drivers
+    - actionable recommendations
+- A **walkthrough call**
+    - to align your team on the analysis
+
+Everything is designed to be **clear, pragmatic, and usable** — not academic.
+
+---
+
+## Who this is for
+
+This is a good fit if you are:
+
+- running a DeFi protocol or vault
+- managing risk for a DAO or strategy
+- preparing discussions with partners or integrators
+- lacking internal risk ownership but need clarity fast
+
+---
+
+## Format
+
+- One-off engagement
+- 1–2 weeks turnaround
+- Fixed scope, no long-term commitment
+
+**Price:** €2,000 – €4,000
+
+---
+
+## How it usually starts
+
+1. Short intro call
+2. You tell me what you want to understand or monitor
+3. I deliver the Risk Assessment
+4. You get clarity on your on-chain risk
+
+---
+
+## Get in touch
+
+If you want a **clear view of your on-chain risk and what really matters**, feel free to reach out.
+
+👉 *Book a call or send me a message.*
