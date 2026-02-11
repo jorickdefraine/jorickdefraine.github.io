@@ -77,24 +77,6 @@ This is a good fit if you are:
 
 ---
 
-### Format
-
-- One-off engagement
-- 1–2 weeks turnaround
-- Fixed scope, no long-term commitment
-
-
----
-
-### How it usually starts
-
-1. Short intro call
-2. You tell me what you want to understand or monitor
-3. I deliver the Risk Assessment in 1-2 weeks.
-4. You get clarity on your on-chain risk
-
----
-
 ### Get in touch
 
 If you want a **clear view of your on-chain risk and what really matters**, feel free to reach out.
