@@ -15,7 +15,7 @@ I help DeFi protocols, vault managers, and DAOs **clearly understand their on-ch
 
 ### The problem I solve
 
-Most DeFi teams have data — but **no clear view of risk**.
+Most DeFi teams have data but **no clear view of risk**.
 
 - Key parameters are not clearly identified
 - Dashboards exist, but they don’t answer *risk* questions
@@ -62,7 +62,7 @@ This typically includes:
 - A **walkthrough call**
     - to align your team on the analysis
 
-Everything is designed to be **clear, pragmatic, and usable** — not academic.
+Everything is designed to be **clear, pragmatic, and usable**.
 
 ---
 
@@ -83,7 +83,6 @@ This is a good fit if you are:
 - 1–2 weeks turnaround
 - Fixed scope, no long-term commitment
 
-**Price:** €2,000 – €4,000
 
 ---
 
@@ -91,7 +90,7 @@ This is a good fit if you are:
 
 1. Short intro call
 2. You tell me what you want to understand or monitor
-3. I deliver the Risk Assessment
+3. I deliver the Risk Assessment in 1-2 weeks.
 4. You get clarity on your on-chain risk
 
 ---
