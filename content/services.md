@@ -100,4 +100,4 @@ This is a good fit if you are:
 
 If you want a **clear view of your on-chain risk and what really matters**, feel free to reach out.
 
-👉 *Book a call or send me a message.*
+👉 DM me at → [@jorickdefraine](https://t.me/jorickdefraine)
