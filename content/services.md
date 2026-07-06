@@ -91,4 +91,5 @@ Clear, pragmatic, usable.
 Want a clear, independent view of a vault's risk — before you deposit, integrate, or allocate?
 
 👉 DM me → [@jorickdefraine](https://t.me/jorickdefraine)
-👉 Or book a 30-min call → [BOOKING_URL](https://calendly.com/jorick_defraine/15min)
+
+👉 Or book a 30-min call → [Discovery Call](https://calendly.com/jorick_defraine/15min)
