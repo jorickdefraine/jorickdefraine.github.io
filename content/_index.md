@@ -4,15 +4,21 @@ menu = "main"
 weight = 1
 +++
 
-# DeFi Data Analyst.
+# Independent DeFi Vault Risk Analyst.
 
-I've been analyzing and building in decentralized finance since 2022, including managing $20M+ in assets as a Data & FinOps Engineer at Morpho Labs. 3 merged PRs to DeFiLlama (protocol adapters and TVL integrations).
+I give **allocators, treasuries, DAOs and curators** an independent read on the risk behind a vault, so they can deposit, integrate or allocate without taking anyone's word for it.
 
-Currently crafting data analytics tools and dashboards while deep-diving into DeFi protocols and smart contract mechanisms. 
+### Why me
+- Former Data & FinOps Engineer at **Morpho**, managed **$20M+ on-chain**
+- Built **UMYO**, a live ERC-4626 vault on Base
+- **3 merged PRs** to DeFiLlama (protocol adapters and TVL integrations)
+- Analyzing and building in DeFi since 2022
 
-Passionate about making financial infrastructure more transparent and accessible through data.
+### Public reports
+**Steakhouse Prime USDC (Morpho)**: flagged a 96.3% cbBTC concentration risk → [Read](https://jorickdefraine.substack.com/p/963-cbbtc-the-concentration-risk)
 
-Building: Open-source yield optimizers, on-chain analytics dashboards, and DeFi risk monitoring systems.
+### Work with me
+Risk Scan, Full Report or continuous Monitoring → [See offers](/services/)
 
 ---
 ## Connect
