@@ -5,47 +5,34 @@ weight = 20
 draft = false
 +++
 
-# Services
+# Independent Vault Risk Analysis
 
-## Financial Operations & Analytics for Tech Companies
+*Know what's really behind a vault before you deposit, integrate, or allocate.*
 
-After managing $20M in assets at Morpho Protocol, I help crypto/tech startups build robust financial infrastructure that scales.
+I run independent, third-party risk assessments of DeFi vaults.
 
-### What I Offer
+### Who this is for
+- **Allocators, funds, treasuries and DAOs** deciding whether to deposit into a vault
+- **Curators and protocols** who want a publishable third-party review for their LPs
 
-#### 📊 Financial Data Infrastructure
-- **Real-time dashboards** tracking key metrics across multiple chains
-- **Automated reporting** for team and investors (save 20+ hours/month)
-- **Treasury monitoring** with alerts and risk analytics
-- **Custom data pipelines** combining on-chain and off-chain data
+### What the analysis covers
+- Collateral concentration and exposure
+- Oracles and their dependencies
+- Liquidity and exit capacity
+- Liquidation parameters (LTV, LLTV) and stress points
+- Stress scenarios under market shocks
+- Curator governance and powers (timelocks, allocators, caps)
 
-#### 💼 FinOps Foundation
-- **Complete financial stack setup** (crypto + fiat treasury management)
-- **Daily operations** handling (payments, banking, vendor management)
-- **Runway projections** with alerts (know exactly when to raise)
-- **Cost optimization** and budget tracking across departments
+### Offers
 
-#### 🔍 Strategic Analytics
-- **Competitive intelligence** dashboards
-- **Investor-ready** reports and data rooms
-- **Market analysis** for strategic decisions
+**Risk Scan** — from €1,200  
+A 2-3 page note with the main risk drivers and a red / amber / green rating. Delivered in 72h.
 
-### My Approach
+**Full Report** — from €4,000  
+A complete written assessment (same depth as my public reports), a custom Dune dashboard, and a walkthrough call. Delivered in 2 weeks.
 
-**Week 1:** Full audit of current setup, identify critical gaps  
-**Week 2-4:** Implement core infrastructure and quick wins  
-**Month 2+:** Optimize, automate, and scale with your growth
+**Monitoring** — from €2,500 / month  
+A live dashboard, threshold alerts, and a monthly written update.
 
-### Why Work With Me?
-
-**Proven track record:** Built Morpho's FinOps infrastructure  
-**Technical expertise:** Engineering background (Télécom Paris) + hands-on data skills  
-**Crypto native:** Deep understanding of DeFi, not just traditional finance  
-**Fast implementation:** See results within 30 days  
-
-## Let's Talk
-
-I'm particularly interested in helping:
-- Startups preparing Series A with messy data
-- Teams overwhelmed by manual financial processes
-- Founders who know they need better visibility
+### Get in touch
+DM me → [@_Jorick](https://x.com/_Jorick)
