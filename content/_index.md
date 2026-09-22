@@ -11,7 +11,7 @@ I give **allocators, treasuries, DAOs and curators** an independent read on the 
 ### Why me
 - Former Data & FinOps Engineer at **Morpho**, managed **$20M+ on-chain**
 - Built **UMYO**, a live ERC-4626 vault on Base
-- **3 merged PRs** to DeFiLlama (protocol adapters and TVL integrations)
+- **DeFiLlama Contributor** (protocol adapters and TVL integrations)
 - Analyzing and building in DeFi since 2022
 
 ### Public reports
