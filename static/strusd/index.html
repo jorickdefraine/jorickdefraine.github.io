@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>strUSD Yield Monitor</title>
+<meta name="description" content="Independent monitor of Tori Finance's strUSD yield from public data: on-chain share price, Proof of Solvency, official onshore yields.">
+<style>
+:root{--bg:#ffffff;--text:#0b0b0b;--text2:#52514e;--muted:#898781;--line:#e1e0d9;--card:#f7f7f4;
+--accent:#2a78d6;--warn:#d03b3b;--ok:#1baf7a}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#0e1117;--text:#ffffff;--text2:#c3c2b7;
+--muted:#898781;--line:#262730;--card:#161a22;--accent:#3987e5;--warn:#e66767;--ok:#199e70}}
+:root[data-theme="dark"]{--bg:#0e1117;--text:#ffffff;--text2:#c3c2b7;--muted:#898781;--line:#262730;--card:#161a22;
+--accent:#3987e5;--warn:#e66767;--ok:#199e70}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:860px;margin:0 auto;padding:24px 16px 48px}
+h1{font-size:1.7rem;line-height:1.2;margin:0 0 4px}
+h2{font-size:1.15rem;margin:36px 0 8px}
+.sub{color:var(--text2);margin:0 0 4px}.asof{color:var(--muted);font-size:.9rem;margin:0 0 20px}
+.tldr{border-left:3px solid var(--accent);padding:4px 0 4px 14px;margin:16px 0 24px}
+.tldr p{margin:6px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.kpi .l{color:var(--text2);font-size:.82rem}.kpi .v{font-size:1.45rem;font-weight:650;font-variant-numeric:tabular-nums}
+.kpi .n{color:var(--muted);font-size:.8rem}
+.ok{color:var(--ok)}.bad{color:var(--warn)}
+.alert{border:1px solid var(--warn);color:var(--text);border-radius:10px;padding:10px 14px;margin:8px 0}
+figure{margin:18px 0 8px}figure img{width:100%;height:auto;display:block}
+figcaption{color:var(--text2);font-size:.85rem;margin-top:4px}
+.chart-title{font-weight:650;margin:0 0 4px}
+footer{color:var(--muted);font-size:.85rem;border-top:1px solid var(--line);margin-top:40px;padding-top:14px}
+a{color:var(--accent)}
+</style></head>
+<body><main>
+<h1>strUSD yield monitor</h1>
+<p class="sub">Where does a synthetic dollar's yield come from? An independent reading of Tori Finance's
+strUSD from public data only.</p>
+<p class="asof">Data as of 2026-09-25 13:18 UTC. Updated twice a day. Not investment advice. Not affiliated with Tori Finance or RockawayX.</p>
+<div class="tldr"><p>strUSD paid <b>10.44%</b> net over the last 30 days, measured from its on-chain share price. Tori's book as a whole earned <b>7.35%</b>: only staked trUSD receives rewards, so stakers also collect the carry of unstaked trUSD.</p><p>The split explains the measured yield: book yield divided by the average staked share over the same 30 days (73.3%, read on-chain) gives <b>10.55%</b>, against 10.44% measured. If everything were staked, strUSD would pay the book's yield, about 7.6%.</p><p><b>10.78M trUSD (14.9% of supply) is waiting in the unstaking cooldown</b>, so only 62.4% of trUSD is staked now. While it waits, today's book yield is compatible with a staker yield near 12.5%; if it is redeemed, the staked share returns to about 73.3% (near 10.5%). Projections at a constant book yield, not forecasts.</p><p>On Tori's disclosed allocation (72.7% money markets), the money-market sleeve must earn <b>8.0% to 11.7%</b> in hedged dollars, a wedge of 3.9% to 7.6% over the 4.08% USD rate.</p></div>
+<div class="grid"><div class="kpi"><div class="l">strUSD net APY, 30d</div><div class="v ">10.44%</div><div class="n">on-chain share price</div></div><div class="kpi"><div class="l">Whole-book net yield, 30d</div><div class="v ">7.35%</div><div class="n">rewards / reserves</div></div><div class="kpi"><div class="l">trUSD staked</div><div class="v ">62.4%</div><div class="n">72.5M supply</div></div><div class="kpi"><div class="l">Waiting to unstake</div><div class="v ">14.9%</div><div class="n">10.78M trUSD in cooldown</div></div><div class="kpi"><div class="l">Hedged wedge needed</div><div class="v ">3.9% to 7.6%</div><div class="n">break-even, not an estimate</div></div></div>
+<h2>Checks against the chain</h2>
+<div class="grid"><div class="kpi"><div class="l">Rewards: PoS vs on-chain</div><div class="v ok">match</div><div class="n">256 pushes, max gap 0.005 trUSD</div></div><div class="kpi"><div class="l">trUSD supply: PoS vs on-chain</div><div class="v ok">match</div><div class="n">gap +0.000%</div></div><div class="kpi"><div class="l">Collateral ratio</div><div class="v ok">100.61%</div><div class="n">weighted maturity 7 days</div></div><div class="kpi"><div class="l">Reserve fund</div><div class="v ">30 days</div><div class="n">of the book&#x27;s net carry ($0.45M); a 0.84% money-market loss uses it up</div></div></div>
+<div class="alert">strUSD staked share 76.4% -&gt; 62.4% since 2026-09-23 23:59 (staked trUSD 9,691,152 lower)</div><div class="alert">10,779,809 trUSD (14.9% of supply) in the unstaking cooldown silo</div>
+<figure><p class="chart-title">Stakers earn the book&#x27;s yield divided by the staked share</p><picture><source srcset="yield-dark-narrow.svg" media="(max-width: 600px) and (prefers-color-scheme: dark)"><source srcset="yield-light-narrow.svg" media="(max-width: 600px)"><source srcset="yield-dark-wide.svg" media="(prefers-color-scheme: dark)"><img src="yield-light-wide.svg" alt="Stakers earn the book&#x27;s yield divided by the staked share" loading="lazy"></picture><figcaption>30-day windows. Book yield: rewards distributed / average reserves (Tori Proof of Solvency). Staked share: strUSD totalAssets / trUSD totalSupply (Ethereum). Implied = exp(book / staked) - 1.</figcaption></figure><figure><p class="chart-title">Share of trUSD supply staked, and waiting to unstake</p><picture><source srcset="staked-dark-narrow.svg" media="(max-width: 600px) and (prefers-color-scheme: dark)"><source srcset="staked-light-narrow.svg" media="(max-width: 600px)"><source srcset="staked-dark-wide.svg" media="(prefers-color-scheme: dark)"><img src="staked-light-wide.svg" alt="Share of trUSD supply staked, and waiting to unstake" loading="lazy"></picture><figcaption>On-chain, read daily at 00:00 UTC and at each collection run. trUSD in the cooldown silo earns no rewards.</figcaption></figure><figure><p class="chart-title">Which onshore markets could deliver it?</p><picture><source srcset="ceilings-dark-narrow.svg" media="(max-width: 600px) and (prefers-color-scheme: dark)"><source srcset="ceilings-light-narrow.svg" media="(max-width: 600px)"><source srcset="ceilings-dark-wide.svg" media="(prefers-color-scheme: dark)"><img src="ceilings-light-wide.svg" alt="Which onshore markets could deliver it?" loading="lazy"></picture><figcaption>Wedge ceiling: hedged excess over USD if the offshore implied rate fell to the USD rate, net of withholding tax and costs. An upper bound, not an estimate. Grey: below the lowest wedge needed. Onshore yields: Central Bank of Nigeria, Central Bank of Egypt, ANBIMA, Reserve Bank of India, Turkish Treasury, converted exactly to simple ACT/365 yields.</figcaption></figure>
+<h2>Method and sources</h2>
+<p>strUSD share price, reward and loss events, trUSD supply and staking: Ethereum mainnet (strUSD
+<code>0x2808…5815</code>, trUSD <code>0xd058…0697</code>, cooldown silo <code>0xF7c0…60B4</code>, as listed on
+docs.tori.finance). Reserves, allocation, maturity and cumulative rewards: Tori's Proof of Solvency
+(Accountable), tori.accountable.capital. USD rates: FRED (3-month T-bill, converted to a money-market yield).
+Onshore yields: Central Bank of Nigeria, Central Bank of Egypt, ANBIMA, Reserve Bank of India and the Turkish
+Treasury, each converted exactly from its published quote to a simple ACT/365 yield. Every figure is
+compatible with the data; none states what Tori holds. The protocol's share of gross carry is not published,
+so gross figures are ranges.</p>
+<footer>By <a href="https://jorickdefraine.github.io">Jorick Defraine</a>, independent DeFi vault risk analyst.
+Contact: <a href="https://x.com/_Jorick">@_Jorick</a>.</footer>
+</main></body></html>
