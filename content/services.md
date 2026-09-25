@@ -32,7 +32,8 @@ A 2-3 page note with the main risk drivers and a red / amber / green rating. Del
 A complete written assessment (same depth as my public reports), a custom Dune dashboard, and a walkthrough call. Delivered in 2 weeks.
 
 **Monitoring** — from €2,500 / month  
-A live dashboard, threshold alerts, and a monthly written update.
+A live dashboard, threshold alerts, and a monthly written update.  
+Example: [strUSD Yield Monitor](/strusd/) (Tori Finance), updated twice a day.
 
 ### Get in touch
 DM me → [@_Jorick](https://x.com/_Jorick)

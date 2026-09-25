@@ -17,6 +17,8 @@ I give **allocators, treasuries, DAOs and curators** an independent read on the 
 ### Public reports
 **Steakhouse Prime USDC (Morpho)**: flagged a 96.3% cbBTC concentration risk → [Read](https://jorickdefraine.substack.com/p/963-cbbtc-the-concentration-risk)
 
+**Tori Finance strUSD (live monitor)**: where a synthetic dollar's yield comes from, updated twice a day → [Open](/strusd/)
+
 ### Work with me
 Risk Scan, Full Report or continuous Monitoring → [See offers](/services/)
 
